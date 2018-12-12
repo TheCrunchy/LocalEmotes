@@ -1,0 +1,16 @@
+name: LocalEmotes
+main: main.main
+version: 1.0
+commands:
+    em:
+        description: emote short
+        default: true
+        usage: em
+    emote:
+        description: emote full
+        default: true
+        usage: emote
+    me:
+        description: emote me
+        default: true
+        usage: me
